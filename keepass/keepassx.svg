@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="New document 1">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective3609"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3625"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.5"
+     inkscape:cx="372.04724"
+     inkscape:cy="512.85714"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     inkscape:snap-global="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="735"
+     inkscape:window-x="-1"
+     inkscape:window-y="20"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 418.17929,350.71719 c 42.5274,-46.63724 114.81164,-49.98961 161.44888,-7.46224 37.42139,34.12368 46.96536,87.41537 27.30441,131.2334 l 81.62123,74.42847 37.00415,5.96941 5.45075,35.22261 40.84959,9.04323 8.2944,34.8652 31.30993,26.62315 12.79438,89.63814 -49.60014,-2.46696 -233.15749,-212.61075 c -38.60527,13.92273 -83.44679,6.52016 -115.87937,-23.05435 -46.63726,-42.5274 -49.96814,-114.79205 -7.44072,-161.42931 z m 22.76843,24.34191 c -14.30442,15.6868 -13.23307,39.99483 2.4025,54.35521 l 26.07902,-28.38358 -25.97163,28.48151 c 15.72652,14.34065 40.09102,13.19703 54.43166,-2.52952 14.34063,-15.72651 13.2381,-40.09291 -2.48847,-54.43355 -15.72652,-14.34062 -40.11249,-13.21661 -54.45314,2.5099 z"
+       id="path3592"
+       sodipodi:nodetypes="csccccccccccscccccssc"
+       inkscape:export-xdpi="6.6100001"
+       inkscape:export-ydpi="6.6100001"
+       inkscape:export-filename="/home/steb/keepassx_locked.png" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       d="m 477.22755,562.87166 c -15.39411,0.0158 -30.77503,3.07611 -43.8261,11.38448 -18.98465,12.19099 -26.38631,35.36855 -26.95814,56.79719 -0.0343,5.44248 -0.0365,5.97777 -0.0557,8.5314 l -0.15309,0 0,97.97897 145.06178,0 0,-97.97897 -0.75154,0 c -0.0889,-13.63528 -1.07568,-27.1888 -6.44381,-39.98488 -7.25989,-19.15668 -26.04389,-32.08289 -46.09465,-35.07202 -6.78445,-1.04853 -13.78144,-1.66333 -20.77878,-1.65617 z m 1.05773,20.45867 c 9.9287,-0.13331 19.85271,1.79332 28.39163,6.8474 14.63025,9.34666 17.43962,28.24917 18.12054,44.11836 0.0193,3.45937 0.0143,3.12692 0.0278,5.28864 l -92.91301,0 c 0.15587,-9.52992 0.89063,-19.00708 3.49329,-28.26636 3.04547,-12.30469 12.69079,-22.81937 25.30196,-25.76125 5.66281,-1.32931 11.62054,-2.1468 17.57774,-2.22679 z"
+       id="rect3639"
+       inkscape:export-filename="/home/steb/keepassx_locked.png"
+       inkscape:export-xdpi="6.6100001"
+       inkscape:export-ydpi="6.6100001" />
+  </g>
+</svg>
